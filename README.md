@@ -1,4 +1,4 @@
-# Task Management System (Intern Assignment)
+# Task Management System
 
 A secure, clean, and simple full-stack task management application built with Node.js, Express, MongoDB, and React.
 
